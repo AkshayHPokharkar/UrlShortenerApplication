@@ -1,0 +1,57 @@
+/* header{
+ background-color: maroon;
+ color: aliceblue;
+ padding: 10px;
+ text-align: center;
+}
+.container{
+    margin-top: 10px;
+    padding: 6px;
+    text-align: center;
+}
+.form-input{
+    padding: 10px;
+    text-align: center;
+    border: 3px solid;
+    width: 55%;
+    border-color: red;
+    font-size: 1rem;
+}
+
+.short-url div{
+    text-align: center;
+    color: blue;
+}
+.short-url div a{
+color: blue;
+}
+.x{
+    text-align: center;
+}
+.Form-Button{
+    padding: 10px;
+    width: 25%;
+    font-size: 1.3rem;
+    margin-top: 15px;
+    background-color: transparent;
+    border: #950740 3px solid;
+    font-weight: bold;
+}
+.Form-Button:hover{
+background-color: #950740;
+color: white;
+
+}
+.short-url-btn button{
+ padding: 10px;
+ width: auto;
+ font-size: 1rem;
+ margin-top: 15px;
+ background-color: transparent;
+ border:#950740 3px solid;
+ font-weight: bold;
+}
+.short-url-btn button :hover{
+    background-color: #950740;
+    color: white;
+} */
